@@ -1,0 +1,12 @@
+{
+  "name": "ivi-control-mobile",
+  "displayName": "ivi-control-mobile",
+  "expo": {
+    "name": "ivi-control-mobile",
+    "slug": "ivi-control-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
