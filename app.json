@@ -7,6 +7,20 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/dvelezroman/ivi-control-mobile",
+    "ios": {
+      "bundleIdentifier": "com.caffeinasw.ivicontrol",
+      "buildNumber": "1.0.0",
+      "backgroundColor": "#FF33F3"
+    },
+    "android": {
+      "package": "com.caffeinasw.ivicontrol",
+      "versionCode": 1
+    },
+    "splash": {
+      "backgroundColor": "#FF33F3"
+    }
   }
 }
